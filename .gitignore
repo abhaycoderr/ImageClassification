@@ -1,0 +1,28 @@
+# Python-specific files
+__pycache__/
+*.py[co]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE files (VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Project-specific files to ignore
+# The trained model is a large binary file and should not be committed
+svm_model.joblib
+
+# The dataset is too large for GitHub and can be downloaded separately
+# It should not be committed to the repository
+data/
+
+# Streamlit files
+.streamlit/
+
+# Uploaded images from the web app
+uploads/
