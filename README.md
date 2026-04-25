@@ -34,11 +34,14 @@ The primary focus of this work is to demonstrate a **clear understanding of the 
 ---
 ## Installation
 git clone https://github.com/abhaycoderr/ImageClassification.git
+
 cd ImageClassification
 
 
 
 ## Model Performance
 Training Accuracy: 69%
+
 Validation Accuracy: 66%
+
 Test Accuracy: 65%
